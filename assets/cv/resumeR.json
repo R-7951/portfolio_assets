@@ -1,0 +1,192 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Rahul Singh",
+    "label": "Software Developer (Backend)",
+    "image": "",
+    "email": "rahulnegi1409@gmail.com",
+    "phone": "+9109560805564",
+    "url": "",
+    "summary": "Yes!! CV JSON",
+    "location": {
+      "countryCode": "US",
+      "address": "India"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "rahulnegi1409",
+        "url": "https://www.linkedin.com/in/rahulnegi1409/"
+      },
+      {
+        "network": "GitHub",
+        "username": "cptmacp",
+        "url": "https://github.com/cptmacp"
+      }
+    ]
+  },
+  "education": [
+    {
+      "institution": "Ramaiah Institute Of Technology",
+      "area": "Computer Science",
+      "studyType": "Bachelor's degree",
+      "startDate": "2015",
+      "endDate": "2020",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Delhi Public School, Mathura Road",
+      "area": "Non-Medical",
+      "studyType": "Senior Secondary",
+      "startDate": "2013",
+      "endDate": "2015",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "work": [
+    {
+      "name": "Zebra Technologies",
+      "position": "Software Developer",
+      "startDate": "2021",
+      "endDate": "",
+      "highlights": [],
+      "summary": null,
+      "url": "https://www.linkedin.com/company/167024",
+      "location": "Bengaluru, India"
+    },
+    {
+      "name": "Huawei",
+      "position": "Software Developer",
+      "startDate": "2020-02-28",
+      "endDate": "2020-06-30",
+      "highlights": [],
+      "summary": null,
+      "url": "https://www.linkedin.com/company/3014",
+      "location": "Bengaluru, India"
+    },
+    {
+      "name": "Ministry of Electronics & Information Technology",
+      "position": "Security Engineer",
+      "startDate": "2019-04-30",
+      "endDate": "2019-07-31",
+      "highlights": [],
+      "summary": null,
+      "url": "https://www.linkedin.com/company/39291128",
+      "location": "Delhi, India"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native Speaker"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "keywords": [
+        "C/C++",
+        "Java",
+        "Python"
+      ]
+    },
+    {
+      "name": "DevOps",
+      "keywords": [
+        "Jira",
+        "Jenkins",
+        "Github Actions"
+      ]
+    },
+    {
+      "name": "Technologies",
+      "keywords": [
+        "Kafka",
+        "Kubernetes",
+        "Docker",
+        "Git",
+        "GitHub"
+      ]
+    },
+    {
+      "name": "Database",
+      "keywords": [
+        "MongoDB",
+        "MySQL",
+        "PostgreSQL"
+      ]
+    },
+    {
+      "name": "Misc",
+      "keywords": [
+        "Android",
+        "Android / Linux Kernel",
+        "Linux OS",
+        "Embedded Linux"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Accident Prediction",
+      "summary": "data mining-based project used to analyze accidents and helps in predicting accidents in a given area.",
+      "highlights": []
+    },
+    {
+      "name": "Android Kernel Development",
+      "summary": "Worked on android kernel and built custom kernels by changing flags and importing different optimization and patch sets.",
+      "highlights": []
+    },
+    {
+      "name": "Angular JS based web applications",
+      "summary": "web-based application which features notes making, editing, and saving in real-time.",
+      "highlights": []
+    }
+  ],
+  "interests": [
+    {
+      "name": "Technologies",
+      "icon": "fa-snowflake-o",
+      "keywords": [
+        "Quantum Mechanics",
+        "Quantum Computing",
+        "Cloud Computing",
+        "Crypto Currency",
+        "Adobe Photoshop and tinkering with After Effects"
+      ]
+    },
+    {
+      "name": "Misc",
+      "icon": "fa-gamepad",
+      "keywords": [
+        "Gaming",
+        "Reading",
+        "Travelling"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "College",
+      "summary": "Managing college events",
+      "highlights": [
+        "Team Lead for college and school representative for events",
+        "Project Manager at debate club",
+        "Event hosting at school and seminars",
+        "Project Manager at debate club",
+        "Hosting marathons in college",
+        "Hosting Tech fest in college"
+      ]
+    }
+  ],
+  "awards": [],
+  "references": [],
+  "certificates": [],
+  "publications": [],
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
+}
