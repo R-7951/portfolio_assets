@@ -184,7 +184,20 @@
   "awards": [],
   "references": [],
   "certificates": [],
-  "publications": [],
+  "publications": [
+    {
+      "name": "Generating a tool for Algebra System in Mathematics",
+      "releaseDate": "2018",
+      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
+      "summary": "Algebraic system for generating a tool for algebraic system in mathematics. It discusses the importance of algebra in mathematics and its applications in various fields."
+    },
+    {
+      "name": "Blockchain Technology and its Potential Areas of Implementation",
+      "releaseDate": "2019",
+      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
+      "summary": "How blockchain technology can be used in various fields like healthcare, supply chain, and finance. It discusses the potential of blockchain to improve transparency, security, and efficiency in these areas."
+    }
+  ],
   "meta": {
     "version": "v1.0.0",
     "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
